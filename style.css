@@ -170,6 +170,10 @@ section {
 
 /* profiles */
 
+#pfp-img {
+    border-radius: 100%;
+}
+
 #profile {
     display: flex;
     justify-content: center;
@@ -424,4 +428,15 @@ article .icon {
 
 .email-icon {
     height: 2.5rem;
+}
+
+/* footer */
+
+footer {
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p {
+    text-align: center;
 }
